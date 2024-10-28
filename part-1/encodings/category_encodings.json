@@ -1,0 +1,16 @@
+{
+  "entertainment": 0.0021771873,
+  "food_dining": 0.0015681295,
+  "gas_transport": 0.0041057496,
+  "grocery_net": 0.0026973704,
+  "grocery_pos": 0.0126453678,
+  "health_fitness": 0.001509551,
+  "home": 0.0015103157,
+  "kids_pets": 0.0018797109,
+  "misc_net": 0.0130385863,
+  "misc_pos": 0.0028188989,
+  "personal_care": 0.0022293116,
+  "shopping_net": 0.0159271328,
+  "shopping_pos": 0.0063437521,
+  "travel": 0.0026916971
+}
