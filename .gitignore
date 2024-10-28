@@ -1,0 +1,6 @@
+venv/
+*/fraudTest.csv
+*/fraudTrain.csv
+*/fraud-detection.zip
+.env
+*/models

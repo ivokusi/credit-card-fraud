@@ -1,0 +1,13 @@
+pandas
+numpy
+matplotlib
+seaborn
+kaggle
+scikit-learn
+xgboost
+folium
+streamlit
+plotly
+streamlit-folium
+groq    
+python-dotenv
